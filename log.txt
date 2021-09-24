@@ -1,0 +1,7 @@
+*******************************
+Activity Log                  *
+*******************************
+
+The purpose of this document, is to track the test progress
+
+09/24/2021 18:00 PM Repository Created 
