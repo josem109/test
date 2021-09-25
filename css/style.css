@@ -3,11 +3,17 @@
 }
 .main-header{
     background-color: #27292d;
-    color: #FFF;
+    color: #cddc39;
 }
 .nav{
     padding: 17px;
 }
 .row{
     flex-wrap: nowrap;
+}
+.img-logo{
+    background-color: #27292d;
+}
+.search-text{
+    color:#cddc39;
 }
