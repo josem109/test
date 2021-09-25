@@ -15,3 +15,5 @@ The purpose of this document, is to track the test progress
 
 09/24/2021 18:00 PM Repository Created 
 >>>>>>> 24912592689db51f21873648ce60b83005f15f6b
+
+09/24/2021 19:44 added HTML, CSS, JS to te repository
