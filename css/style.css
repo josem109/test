@@ -5,3 +5,9 @@
     background-color: #27292d;
     color: #FFF;
 }
+.nav{
+    padding: 17px;
+}
+.row{
+    flex-wrap: nowrap;
+}
