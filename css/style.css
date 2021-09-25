@@ -1,8 +1,8 @@
 .img-thumbnail{
-    max-width: 20%;
+    max-width: 50%;
 }
 .main-header{
-    background-color: #27292d;
+    background-color: #373435;
     color: #cddc39;
 }
 .nav{
@@ -12,7 +12,7 @@
     flex-wrap: nowrap;
 }
 .img-logo{
-    background-color: #27292d;
+    background-color: #373435;
 }
 .search-text{
     color:#cddc39;
