@@ -5,8 +5,9 @@
     background-color: #373435;
     color: #cddc39;
 }
-.nav{
-    padding: 17px;
+#bs-example-navbar-collapse-1{
+    /*padding: 17px;*/
+    background-color: #373435;
 }
 .row{
     flex-wrap: nowrap;
@@ -16,4 +17,17 @@
 }
 .search-text{
     color:#cddc39;
+}
+.bs-example-navbar-collapse-1{
+    background-color: #373435;
+}
+#bs-example-navbar-collapse-1 {
+    margin-top: -10px;
+    padding: 15px;
+    width: 120%;
+    margin-left: -40px;
+    /* margin-left: -10px; */
+}
+.titulo{
+    width: 100%;
 }
