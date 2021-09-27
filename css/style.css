@@ -31,3 +31,9 @@
 .titulo{
     width: 100%;
 }
+.btn-outline-success {
+    color:#cddc39;
+    background-image: none;
+    background-color: transparent;
+    border-color: #cddc39;
+}
